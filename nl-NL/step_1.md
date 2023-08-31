@@ -1,5 +1,5 @@
-Navigate to the Model you want to use in the Project window.
+Navigeer naar het model dat je wilt gebruiken in het projectvenster.
 
-Drag the model to your scene and position it:
+Sleep het model naar je scène en zet het op de juiste plaats:
 
-![The Scene view with the clover model added.](images/clover-scene.png)
+![De scèneweergave met het klavermodel toegevoegd.](images/clover-scene.png)
