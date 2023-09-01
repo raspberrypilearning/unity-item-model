@@ -1,5 +1,5 @@
-Navigate to the Model you want to use in the Project window.
+Va jusqu'au modèle que tu veux utiliser dans la fenêtre Project.
 
-Drag the model to your scene and position it:
+Fais glisser le modèle sur ta scène et positionne-le :
 
-![The Scene view with the clover model added.](images/clover-scene.png)
+![La vue Scene avec le modèle trèfle ajouté.](images/clover-scene.png)
